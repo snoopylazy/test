@@ -66,6 +66,12 @@
     <Compile Include="Register.Designer.cs">
       <DependentUpon>Register.cs</DependentUpon>
     </Compile>
+    <Compile Include="table.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="table.Designer.cs">
+      <DependentUpon>table.cs</DependentUpon>
+    </Compile>
     <Compile Include="use.cs">
       <SubType>Form</SubType>
     </Compile>
