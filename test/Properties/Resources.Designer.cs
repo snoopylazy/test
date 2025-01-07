@@ -93,6 +93,46 @@ namespace test.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Brown_Culinary_Hunter_Food_Logo {
+            get {
+                object obj = ResourceManager.GetObject("Brown Culinary Hunter Food Logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap clock_12476936 {
+            get {
+                object obj = ResourceManager.GetObject("clock_12476936", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap clock_124769361 {
+            get {
+                object obj = ResourceManager.GetObject("clock_124769361", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap d04fc6ea_b8cd_463d_a1ee_429dbcd79bd0 {
+            get {
+                object obj = ResourceManager.GetObject("d04fc6ea-b8cd-463d-a1ee-429dbcd79bd0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Heading {
             get {
                 object obj = ResourceManager.GetObject("Heading", resourceCulture);

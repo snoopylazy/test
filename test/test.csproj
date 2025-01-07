@@ -72,6 +72,18 @@
     <Compile Include="Register.Designer.cs">
       <DependentUpon>Register.cs</DependentUpon>
     </Compile>
+    <Compile Include="Servos1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servos1.Designer.cs">
+      <DependentUpon>Servos1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servos2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servos2.Designer.cs">
+      <DependentUpon>Servos2.cs</DependentUpon>
+    </Compile>
     <Compile Include="table.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -102,6 +114,12 @@
     </Compile>
     <EmbeddedResource Include="Register.resx">
       <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servos1.resx">
+      <DependentUpon>Servos1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servos2.resx">
+      <DependentUpon>Servos2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="use.resx">
       <DependentUpon>use.cs</DependentUpon>
@@ -136,6 +154,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\a5673535-a21a-4972-ba95-e70bf686561f.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock_12476936.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock_124769361.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d04fc6ea-b8cd-463d-a1ee-429dbcd79bd0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brown Culinary Hunter Food Logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
