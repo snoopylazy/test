@@ -127,6 +127,9 @@
   <data name="7bcf8f48-63c7-449e-94c8-36f10486d124" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\7bcf8f48-63c7-449e-94c8-36f10486d124.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Brown Culinary Hunter Food Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brown Culinary Hunter Food Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Heading" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Heading.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -145,7 +148,7 @@
   <data name="a5673535-a21a-4972-ba95-e70bf686561f" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\a5673535-a21a-4972-ba95-e70bf686561f.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Brown Culinary Hunter Food Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Brown Culinary Hunter Food Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="food" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\food.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -176,5 +176,8 @@
   <ItemGroup>
     <None Include="Resources\Brown Culinary Hunter Food Logo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
