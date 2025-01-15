@@ -51,52 +51,55 @@
             // 
             this.lbLogin.AutoSize = true;
             this.lbLogin.Font = new System.Drawing.Font("Microsoft Tai Le", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbLogin.Location = new System.Drawing.Point(144, 50);
+            this.lbLogin.Location = new System.Drawing.Point(128, 40);
             this.lbLogin.Name = "lbLogin";
-            this.lbLogin.Size = new System.Drawing.Size(114, 46);
+            this.lbLogin.Size = new System.Drawing.Size(96, 39);
             this.lbLogin.TabIndex = 1;
             this.lbLogin.Text = "Login";
             // 
             // txtUsername
             // 
-            this.txtUsername.Location = new System.Drawing.Point(90, 259);
+            this.txtUsername.Location = new System.Drawing.Point(80, 207);
+            this.txtUsername.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(258, 26);
+            this.txtUsername.Size = new System.Drawing.Size(230, 22);
             this.txtUsername.TabIndex = 4;
             // 
             // lbUserName
             // 
             this.lbUserName.AutoSize = true;
             this.lbUserName.Font = new System.Drawing.Font("Microsoft Tai Le", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbUserName.Location = new System.Drawing.Point(91, 224);
+            this.lbUserName.Location = new System.Drawing.Point(81, 179);
             this.lbUserName.Name = "lbUserName";
-            this.lbUserName.Size = new System.Drawing.Size(102, 23);
+            this.lbUserName.Size = new System.Drawing.Size(86, 19);
             this.lbUserName.TabIndex = 5;
             this.lbUserName.Text = "USERNAME";
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(90, 381);
+            this.txtPassword.Location = new System.Drawing.Point(80, 305);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(258, 26);
+            this.txtPassword.Size = new System.Drawing.Size(230, 22);
             this.txtPassword.TabIndex = 6;
             // 
             // lbPassword
             // 
             this.lbPassword.AutoSize = true;
             this.lbPassword.Font = new System.Drawing.Font("Microsoft Tai Le", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbPassword.Location = new System.Drawing.Point(91, 344);
+            this.lbPassword.Location = new System.Drawing.Point(81, 275);
             this.lbPassword.Name = "lbPassword";
-            this.lbPassword.Size = new System.Drawing.Size(107, 23);
+            this.lbPassword.Size = new System.Drawing.Size(88, 19);
             this.lbPassword.TabIndex = 7;
             this.lbPassword.Text = "PASSWORD";
             // 
             // picPassword
             // 
             this.picPassword.Image = global::test.Properties.Resources.a5673535_a21a_4972_ba95_e70bf686561f;
-            this.picPassword.Location = new System.Drawing.Point(12, 332);
+            this.picPassword.Location = new System.Drawing.Point(11, 266);
+            this.picPassword.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.picPassword.Name = "picPassword";
-            this.picPassword.Size = new System.Drawing.Size(71, 75);
+            this.picPassword.Size = new System.Drawing.Size(63, 60);
             this.picPassword.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picPassword.TabIndex = 9;
             this.picPassword.TabStop = false;
@@ -104,9 +107,10 @@
             // picUsername
             // 
             this.picUsername.Image = global::test.Properties.Resources._7bcf8f48_63c7_449e_94c8_36f10486d124;
-            this.picUsername.Location = new System.Drawing.Point(13, 210);
+            this.picUsername.Location = new System.Drawing.Point(12, 168);
+            this.picUsername.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.picUsername.Name = "picUsername";
-            this.picUsername.Size = new System.Drawing.Size(71, 75);
+            this.picUsername.Size = new System.Drawing.Size(63, 60);
             this.picUsername.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picUsername.TabIndex = 8;
             this.picUsername.TabStop = false;
@@ -114,9 +118,10 @@
             // picAdminstrator
             // 
             this.picAdminstrator.Image = global::test.Properties.Resources._11da8d49_d4c1_43d4_9307_216828e5b4f9;
-            this.picAdminstrator.Location = new System.Drawing.Point(165, 99);
+            this.picAdminstrator.Location = new System.Drawing.Point(147, 79);
+            this.picAdminstrator.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.picAdminstrator.Name = "picAdminstrator";
-            this.picAdminstrator.Size = new System.Drawing.Size(71, 75);
+            this.picAdminstrator.Size = new System.Drawing.Size(63, 60);
             this.picAdminstrator.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picAdminstrator.TabIndex = 2;
             this.picAdminstrator.TabStop = false;
@@ -124,9 +129,10 @@
             // panel_img
             // 
             this.panel_img.Image = global::test.Properties.Resources.Heading;
-            this.panel_img.Location = new System.Drawing.Point(403, -5);
+            this.panel_img.Location = new System.Drawing.Point(358, -4);
+            this.panel_img.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel_img.Name = "panel_img";
-            this.panel_img.Size = new System.Drawing.Size(434, 556);
+            this.panel_img.Size = new System.Drawing.Size(386, 445);
             this.panel_img.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.panel_img.TabIndex = 0;
             this.panel_img.TabStop = false;
@@ -136,9 +142,10 @@
             this.btnLogin.BackColor = System.Drawing.Color.Maroon;
             this.btnLogin.Font = new System.Drawing.Font("Microsoft Tai Le", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnLogin.Location = new System.Drawing.Point(68, 425);
+            this.btnLogin.Location = new System.Drawing.Point(60, 340);
+            this.btnLogin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(113, 52);
+            this.btnLogin.Size = new System.Drawing.Size(100, 42);
             this.btnLogin.TabIndex = 10;
             this.btnLogin.Text = "Login";
             this.btnLogin.UseVisualStyleBackColor = false;
@@ -148,9 +155,10 @@
             this.btnRegister.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.btnRegister.Font = new System.Drawing.Font("Microsoft Tai Le", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegister.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.btnRegister.Location = new System.Drawing.Point(220, 425);
+            this.btnRegister.Location = new System.Drawing.Point(196, 340);
+            this.btnRegister.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnRegister.Name = "btnRegister";
-            this.btnRegister.Size = new System.Drawing.Size(113, 52);
+            this.btnRegister.Size = new System.Drawing.Size(100, 42);
             this.btnRegister.TabIndex = 11;
             this.btnRegister.Text = "Register";
             this.btnRegister.UseVisualStyleBackColor = false;
@@ -159,9 +167,9 @@
             // 
             this.lbAready_account.AutoSize = true;
             this.lbAready_account.Font = new System.Drawing.Font("Microsoft Tai Le", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbAready_account.Location = new System.Drawing.Point(52, 480);
+            this.lbAready_account.Location = new System.Drawing.Point(46, 388);
             this.lbAready_account.Name = "lbAready_account";
-            this.lbAready_account.Size = new System.Drawing.Size(140, 16);
+            this.lbAready_account.Size = new System.Drawing.Size(118, 13);
             this.lbAready_account.TabIndex = 12;
             this.lbAready_account.Text = "Already have an account.";
             // 
@@ -171,18 +179,18 @@
             this.lbLog_in.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.lbLog_in.Font = new System.Drawing.Font("Microsoft Tai Le", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbLog_in.ForeColor = System.Drawing.Color.Maroon;
-            this.lbLog_in.Location = new System.Drawing.Point(186, 480);
+            this.lbLog_in.Location = new System.Drawing.Point(165, 388);
             this.lbLog_in.Name = "lbLog_in";
-            this.lbLog_in.Size = new System.Drawing.Size(37, 16);
+            this.lbLog_in.Size = new System.Drawing.Size(32, 13);
             this.lbLog_in.TabIndex = 13;
             this.lbLog_in.Text = "log in";
             this.lbLog_in.Click += new System.EventHandler(this.label6_Click);
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(837, 550);
+            this.ClientSize = new System.Drawing.Size(744, 440);
             this.Controls.Add(this.lbLog_in);
             this.Controls.Add(this.lbAready_account);
             this.Controls.Add(this.btnRegister);
@@ -196,6 +204,7 @@
             this.Controls.Add(this.picAdminstrator);
             this.Controls.Add(this.lbLogin);
             this.Controls.Add(this.panel_img);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Login";
             this.Text = "Login";
             ((System.ComponentModel.ISupportInitialize)(this.picPassword)).EndInit();
